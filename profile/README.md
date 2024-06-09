@@ -1,6 +1,6 @@
 ## Anginger Platform
 
-[Star Inc.](https://starinc.xyz) 與 [Taiwan Web Technology Promotion Organization](https://web-tech-tw.github.io) 技術對接窗口
+為臺灣各大傳統企業提供全方位資訊技術支援與轉型規劃。
 
 `>>`
 [`website`](https://anginger.startw.cf/)
